@@ -1,6 +1,6 @@
 # DISCOS<br />
 File system implementation on bare metal x86 Hardwate<br />
-To run our DISCOS implementation:<br /> 
+To run this File system implementation:<br /> 
   ● Untar the directory<br /> 
   ● If running on 32 bit system:<br />
 		   		○ Open the Makefile and comment the line 'AS = 32'<br />
